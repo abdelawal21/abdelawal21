@@ -1,5 +1,5 @@
 <h3 align='center'>Hi there 👋, I am Abdel awal.</Hi></h3>
-<h4 align='center'>I am a MERN Stack web application developer from Iran.</h4>
+<h4 align='center'>I am a programmer from Cameroon..</h4>
 <br/>
   
 
@@ -8,10 +8,9 @@
 <img align="right" width="350" src="https://github.com/Amir-Azimi-github/Amir3354/blob/main/giphy.gif?raw=true" alt="gif" />
 <h4 align='left'>
 ❤️ &nbsp; love programming and writing codes <br/><br/>
-🤞 &nbsp; enjoy learning new features and languages <br/><br/>
+🤞 &nbsp; The objective is to learn more each day. <br/><br/>
 🎓 &nbsp; I am a maintenance technician. <br/><br/>
 🎂 &nbsp;  1999/12/20 <br/><br/>
-☀️ &nbsp;  1381/10/09 <br/><br/>
 </h4>
 </p>
 
