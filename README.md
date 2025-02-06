@@ -9,8 +9,8 @@
 <h4 align='left'>
 ❤️ &nbsp; love programming and writing codes <br/><br/>
 🤞 &nbsp; enjoy learning new features and languages <br/><br/>
-🎓 &nbsp; Electrical Engineer <br/><br/>
-🎂 &nbsp;  2002/12/30 <br/><br/>
+🎓 &nbsp; I am a maintenance technician. <br/><br/>
+🎂 &nbsp;  1999/12/20 <br/><br/>
 ☀️ &nbsp;  1381/10/09 <br/><br/>
 </h4>
 </p>
