@@ -5,7 +5,7 @@
 
 # About me
 <p>
-<img align="right" width="350" src="https://github.com/abdel-awalgithub/Amir3354/blob/main/giphy.gif?raw=true" alt="gif" />
+<img align="right" width="350" src="https://github.com/abdel-awalgithub/abdel-awal/blob/main/giphy.gif?raw=true" alt="gif" />
 <h4 align='left'>
 ❤️ &nbsp; love programming and writing codes <br/><br/>
 🤞 &nbsp; The objective is to learn more each day. <br/><br/>
